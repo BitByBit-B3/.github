@@ -6,7 +6,7 @@ Welcome to the official GitHub organization of **BitByBit-B3** — a software de
 
 ---
 
-## 🏢 About Us
+## About Us
 
 At BitByBit-B3, we believe great software is built incrementally, with care and intention. Our team focuses on delivering high-quality, maintainable, and well-documented projects that serve developers and organizations alike.
 
@@ -14,13 +14,13 @@ Whether you're here to use our software, report an issue, or contribute to the c
 
 ---
 
-## 🚀 Our Projects
+## Our Projects
 
 Browse our repositories to explore the tools and libraries we maintain. Each project is crafted with a focus on simplicity, performance, and developer experience.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community. To get started:
 
@@ -32,17 +32,17 @@ All contributors are expected to follow our code of conduct and maintain a respe
 
 ---
 
-## 📬 Contact Us
+## Contact Us
 
 Have questions, partnership inquiries, or just want to say hello?
 
-- 🌐 **Website:** [bbyb.dev](https://bbyb.dev)
-- 📧 **Email:** [bitbybit0123@gmail.com](mailto:bitbybit0123@gmail.com)
+- **Website:** [bbyb.dev](https://bbyb.dev)
+- **Email:** [bitbybit0123@gmail.com](mailto:bitbybit0123@gmail.com)
 
 We aim to respond to all inquiries within 2–3 business days.
 
 ---
 
-## 📄 License
+## License
 
 Unless otherwise specified, our projects are released under the [Unlicense](https://unlicense.org) — free and open for everyone, with no restrictions.
