@@ -37,7 +37,7 @@ All contributors are expected to follow our code of conduct and maintain a respe
 Have questions, partnership inquiries, or just want to say hello?
 
 - **Website:** [bbyb.dev](https://bbyb.dev)
-- **Email:** [bitbybit0123@gmail.com](mailto:bitbybit0123@gmail.com)
+- **Email:** [contact@bbyb.dev](mailto:contact@bbyb.dev)
 
 We aim to respond to all inquiries within 2–3 business days.
 
